@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Ph\IeC {\^a}n t\IeC {\'\i }ch y\IeC {\^e}u c\IeC {\`\acircumflex }u}{2}% 
+\contentsline {subsection}{\numberline {1.1}M\IeC {\d u}c ti\IeC {\^e}u}{2}% 
+\contentsline {subsection}{\numberline {1.2}Y\IeC {\^e}u c\IeC {\`\acircumflex }u}{2}% 
+\contentsline {subsubsection}{\numberline {1.2.1}Client}{2}% 
+\contentsline {subsubsection}{\numberline {1.2.2}Server}{2}% 
+\contentsline {section}{\numberline {2}Function description}{3}% 
+\contentsline {subsection}{\numberline {2.1}Client.py}{3}% 
+\contentsline {subsection}{\numberline {2.2}RtpPacket.py}{3}% 
+\contentsline {subsection}{\numberline {2.3}ServerWorker.py}{4}% 
+\contentsline {subsection}{\numberline {2.4}VideoStream.py}{4}% 
+\contentsline {section}{\numberline {3}Class diagram}{5}% 
+\contentsline {section}{\numberline {4}Extend}{5}% 
+\contentsline {section}{\numberline {5}H\IeC {\uhorn }\IeC {\'\ohorn }ng d\IeC {\~\acircumflex }n s\IeC {\h \uhorn } d\IeC {\d u}ng}{6}% 
+\contentsline {section}{\numberline {6}\IeC {\DJ }\IeC {\'a}nh gi\IeC {\'a} k\IeC {\'\ecircumflex }t qu\IeC {\h a}}{10}% 
